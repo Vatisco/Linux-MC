@@ -4,7 +4,7 @@ MCSLI: Minecraft Server Linux Installer
 Use this to easily install Java and a Minecraft server on a Linux server.
 
 ```shell
-wget https://github.com/silvertriclops/MCSLI/archive/master.zip
+wget https://https://github.com/Vatisco/Linux-MC/master.zip
 unzip master.zip
 sudo chmod +x install.sh
 sudo chmod +x start.sh
